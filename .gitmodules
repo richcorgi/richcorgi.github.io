@@ -1,0 +1,3 @@
+[submodule "my-corgi-blog/themes/LoveIt"]
+	path = my-corgi-blog/themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
